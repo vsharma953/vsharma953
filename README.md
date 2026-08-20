@@ -20,7 +20,7 @@
 ## 🙋‍♂️ Who I Am
 
 ```typescript
-const vsharma953 = {
+const Vishal Sharma = {
   title: "BCA Student",
   stack: [
     "HTML", "CSS", "JavaScript",
