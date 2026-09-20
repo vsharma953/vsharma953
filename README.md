@@ -23,7 +23,7 @@
 - 🛠️ Building projects with **Kali Linux, Nmap, Wireshark, Burp Suite**
 - 💬 Ask me about **Web Development, Linux & Security Basics**
 - 🎯 Open to **Cyber Security Internship / Fresher Opportunities**
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **vs77755871@gmail.com**
 
 ---
 
