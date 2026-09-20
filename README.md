@@ -29,9 +29,9 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.magnific.com/premium-vector/linkedin-app-icon-world-s-largest-professional-network-social-networking-jobs-careers_277909-476.jpg?semt=ais_hybrid&w=740&q=80)](https://www.linkedin.com/in/vishal-sharma-0539a52b4/)
-[![Gmail](https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png)](mailto:your-vs7755871@gmail.com)
-[![GitHub](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png)](https://github.com/vsharma953)
+[![LinkedIn]()](https://www.linkedin.com/in/vishal-sharma-0539a52b4/)
+[![Gmail]()](mailto:your-vs7755871@gmail.com)
+[![GitHub]()](https://github.com/vsharma953)
 
 ---
 
